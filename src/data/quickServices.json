@@ -1,0 +1,62 @@
+[
+  {
+    "id": "qs-birth",
+    "icon": "👶",
+    "label": "شهادة ميلاد",
+    "labelEn": "Birth certificate",
+    "color": "#FFF8E1",
+    "fee": "5 د.أ",
+    "feeEn": "5 JOD",
+    "category": "civil",
+    "serviceRef": "svc-birth-cert"
+  },
+  {
+    "id": "qs-marriage",
+    "icon": "💍",
+    "label": "وثيقة زواج",
+    "labelEn": "Marriage certificate",
+    "color": "#F3E5F5",
+    "fee": "25 د.أ",
+    "feeEn": "25 JOD",
+    "category": "civil",
+    "serviceRef": "svc-marriage-doc"
+  },
+  {
+    "id": "qs-death",
+    "icon": "🕊️",
+    "label": "شهادة وفاة",
+    "labelEn": "Death certificate",
+    "color": "#E8F5E9",
+    "fee": "5 د.أ",
+    "feeEn": "5 JOD",
+    "category": "civil",
+    "serviceRef": "svc-death-cert"
+  },
+  {
+    "id": "qs-power",
+    "icon": "📋",
+    "label": "وكالة عدلية",
+    "labelEn": "Power of attorney",
+    "color": "#E3F2FD",
+    "fee": "20 د.أ",
+    "feeEn": "20 JOD",
+    "category": "notary",
+    "serviceRef": "svc-power-attorney"
+  },
+  {
+    "id": "qs-abroad",
+    "icon": "🌐",
+    "label": "خدمات الخارج",
+    "labelEn": "Abroad services",
+    "color": "#FFF3E0",
+    "category": "abroad"
+  },
+  {
+    "id": "qs-appointment",
+    "icon": "📅",
+    "label": "حجز موعد",
+    "labelEn": "Book appointment",
+    "color": "#FCE4EC",
+    "category": "appointment"
+  }
+]

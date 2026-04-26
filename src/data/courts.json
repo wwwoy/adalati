@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "محكمة التمييز",
+    "city": "عمان",
+    "governorate": "amman",
+    "address": "العبدلي، عمان",
+    "type": "تمييز",
+    "phone": "+96264642461",
+    "available": 4
+  },
+  {
+    "id": 2,
+    "name": "محكمة استئناف عمان",
+    "city": "عمان",
+    "governorate": "amman",
+    "address": "العبدلي، شارع الملك حسين",
+    "type": "استئناف",
+    "phone": "+96264625151",
+    "available": 12
+  },
+  {
+    "id": 3,
+    "name": "محكمة بداية عمان",
+    "city": "عمان",
+    "governorate": "amman",
+    "address": "قصر العدل، العبدلي",
+    "type": "بداية",
+    "phone": "+96264625151",
+    "available": 18
+  },
+  {
+    "id": 4,
+    "name": "محكمة صلح عمان",
+    "city": "عمان",
+    "governorate": "amman",
+    "address": "قصر العدل، العبدلي",
+    "type": "صلح",
+    "phone": "+96264625151",
+    "available": 22
+  },
+  {
+    "id": 5,
+    "name": "محكمة الأحوال الشخصية - عمان",
+    "city": "عمان",
+    "governorate": "amman",
+    "address": "جبل الحسين",
+    "type": "شرعية",
+    "phone": "+96264655180",
+    "available": 9
+  },
+  {
+    "id": 6,
+    "name": "محكمة استئناف إربد",
+    "city": "إربد",
+    "governorate": "irbid",
+    "address": "وسط البلد، إربد",
+    "type": "استئناف",
+    "phone": "+96227245353",
+    "available": 8
+  },
+  {
+    "id": 7,
+    "name": "محكمة بداية إربد",
+    "city": "إربد",
+    "governorate": "irbid",
+    "address": "مجمع المحاكم، إربد",
+    "type": "بداية",
+    "phone": "+96227245353",
+    "available": 15
+  },
+  {
+    "id": 8,
+    "name": "محكمة بداية الزرقاء",
+    "city": "الزرقاء",
+    "governorate": "zarqa",
+    "address": "شارع الملك عبدالله، الزرقاء",
+    "type": "بداية",
+    "phone": "+96253983300",
+    "available": 11
+  },
+  {
+    "id": 9,
+    "name": "محكمة صلح الزرقاء",
+    "city": "الزرقاء",
+    "governorate": "zarqa",
+    "address": "وسط الزرقاء",
+    "type": "صلح",
+    "phone": "+96253983300",
+    "available": 14
+  },
+  {
+    "id": 10,
+    "name": "محكمة بداية البلقاء",
+    "city": "السلط",
+    "governorate": "balqa",
+    "address": "وسط مدينة السلط",
+    "type": "بداية",
+    "phone": "+96253555005",
+    "available": 7
+  },
+  {
+    "id": 11,
+    "name": "محكمة بداية الكرك",
+    "city": "الكرك",
+    "governorate": "karak",
+    "address": "وسط مدينة الكرك",
+    "type": "بداية",
+    "phone": "+96232351265",
+    "available": 6
+  },
+  {
+    "id": 12,
+    "name": "محكمة بداية مادبا",
+    "city": "مادبا",
+    "governorate": "madaba",
+    "address": "وسط مادبا",
+    "type": "بداية",
+    "phone": "+96253244003",
+    "available": 5
+  },
+  {
+    "id": 13,
+    "name": "محكمة بداية العقبة",
+    "city": "العقبة",
+    "governorate": "aqaba",
+    "address": "وسط العقبة",
+    "type": "بداية",
+    "phone": "+96232013351",
+    "available": 9
+  },
+  {
+    "id": 14,
+    "name": "محكمة بداية جرش",
+    "city": "جرش",
+    "governorate": "jerash",
+    "address": "وسط جرش",
+    "type": "بداية",
+    "phone": "+96226351174",
+    "available": 4
+  },
+  {
+    "id": 15,
+    "name": "محكمة بداية عجلون",
+    "city": "عجلون",
+    "governorate": "ajloun",
+    "address": "وسط عجلون",
+    "type": "بداية",
+    "phone": "+96226420071",
+    "available": 3
+  },
+  {
+    "id": 16,
+    "name": "محكمة بداية المفرق",
+    "city": "المفرق",
+    "governorate": "mafraq",
+    "address": "وسط المفرق",
+    "type": "بداية",
+    "phone": "+96226230030",
+    "available": 5
+  },
+  {
+    "id": 17,
+    "name": "محكمة بداية معان",
+    "city": "معان",
+    "governorate": "maan",
+    "address": "وسط معان",
+    "type": "بداية",
+    "phone": "+96232132206",
+    "available": 4
+  },
+  {
+    "id": 18,
+    "name": "محكمة بداية الطفيلة",
+    "city": "الطفيلة",
+    "governorate": "tafilah",
+    "address": "وسط الطفيلة",
+    "type": "بداية",
+    "phone": "+96232241068",
+    "available": 3
+  }
+]

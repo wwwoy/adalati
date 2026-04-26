@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "تعديل ساعات العمل خلال شهر رمضان المبارك",
+    "titleEn": "Adjusted working hours during Ramadan",
+    "date": "١ نيسان ٢٠٢٦",
+    "dateEn": "April 1, 2026",
+    "type": "إعلان",
+    "typeEn": "Announcement",
+    "urgent": false,
+    "body": "تعلن وزارة العدل الأردنية عن تعديل ساعات العمل خلال شهر رمضان المبارك لتصبح من الساعة ٩:٠٠ صباحاً وحتى ٢:٣٠ ظهراً في جميع المحاكم والدوائر التابعة للوزارة، وذلك تيسيراً على المواطنين الصائمين.",
+    "bodyEn": "The Ministry of Justice announces adjusted working hours during the holy month of Ramadan: 9:00 AM to 2:30 PM across all courts and ministry departments, to ease the experience of fasting citizens."
+  },
+  {
+    "id": 2,
+    "title": "إطلاق خدمة التوقيع الإلكتروني للوثائق الرسمية",
+    "titleEn": "Launch of the e-signature service for official documents",
+    "date": "٢٨ آذار ٢٠٢٦",
+    "dateEn": "March 28, 2026",
+    "type": "جديد",
+    "typeEn": "New",
+    "urgent": true,
+    "body": "أطلقت وزارة العدل الأردنية خدمة التوقيع الإلكتروني المعتمد للوثائق الرسمية ضمن منصة عدالتي الرقمية. تشمل الخدمة الوكالات وعقود البيع والإيجار والوثائق التجارية، وتُغني عن الحضور إلى مكاتب كاتب العدل.",
+    "bodyEn": "The Ministry of Justice has launched a certified e-signature service for official documents on the Adalati digital platform. It covers powers of attorney, sale and lease contracts, and commercial documents, eliminating the need to visit a notary's office in person."
+  },
+  {
+    "id": 3,
+    "title": "تفعيل الدفع عبر eFAWATEERcom لرسوم المحاكم",
+    "titleEn": "eFAWATEERcom payments enabled for court fees",
+    "date": "٢٢ آذار ٢٠٢٦",
+    "dateEn": "March 22, 2026",
+    "type": "إعلان",
+    "typeEn": "Announcement",
+    "urgent": false,
+    "body": "أعلنت الوزارة عن إمكانية دفع رسوم المحاكم والخدمات القضائية عبر منصة eFAWATEERcom من خلال تطبيقات البنوك الأردنية، بهدف تسريع المعاملات وتقليص الازدحام في الدوائر."
+  }
+]

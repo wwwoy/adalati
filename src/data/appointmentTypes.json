@@ -1,0 +1,8 @@
+[
+  { "id": 1, "icon": "file-document-outline", "label": "توثيق عقد", "color": "#1B5E3B" },
+  { "id": 2, "icon": "account-tie", "label": "وكالة قانونية", "color": "#1565C0" },
+  { "id": 3, "icon": "calendar-check", "label": "جلسة محكمة", "color": "#4A148C" },
+  { "id": 4, "icon": "home-city", "label": "تسجيل عقار", "color": "#BF360C" },
+  { "id": 5, "icon": "certificate", "label": "توثيق شهادة", "color": "#006064" },
+  { "id": 6, "icon": "draw", "label": "توقيع مستند", "color": "#33691E" }
+]

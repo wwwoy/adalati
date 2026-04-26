@@ -1,0 +1,42 @@
+[
+  {
+    "id": "civil",
+    "title": "خدمات الأحوال المدنية",
+    "titleEn": "Civil affairs",
+    "icon": "account-group",
+    "count": 8,
+    "color": "#1B5E3B",
+    "description": "شهادات الميلاد والوفاة، عقود الزواج والطلاق، تسجيل الواقعات",
+    "descriptionEn": "Birth/death certificates, marriage & divorce contracts, civil registry"
+  },
+  {
+    "id": "notary",
+    "title": "خدمات التوثيق وكتاب العدل",
+    "titleEn": "Notary & authentication",
+    "icon": "file-document-outline",
+    "count": 7,
+    "color": "#1565C0",
+    "description": "الوكالات العدلية، توثيق العقود والاتفاقيات، التواقيع المعتمدة",
+    "descriptionEn": "Power of attorney, contract notarization, certified signatures"
+  },
+  {
+    "id": "courts",
+    "title": "خدمات المحاكم",
+    "titleEn": "Court services",
+    "icon": "gavel",
+    "count": 12,
+    "color": "#4A148C",
+    "description": "متابعة القضايا، حجز جلسات، طلبات الاستئناف، تنفيذ الأحكام",
+    "descriptionEn": "Case tracking, hearing booking, appeals, judgment execution"
+  },
+  {
+    "id": "digital",
+    "title": "الخدمات الإلكترونية",
+    "titleEn": "Digital services",
+    "icon": "laptop",
+    "count": 9,
+    "color": "#BF360C",
+    "description": "بوابة عدالتي الإلكترونية، التوقيع الرقمي، الدفع الإلكتروني",
+    "descriptionEn": "Adalati e-portal, digital signature, electronic payment"
+  }
+]

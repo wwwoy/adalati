@@ -1,0 +1,14 @@
+[
+  { "id": "amman", "name": "عمان" },
+  { "id": "irbid", "name": "إربد" },
+  { "id": "zarqa", "name": "الزرقاء" },
+  { "id": "balqa", "name": "البلقاء" },
+  { "id": "karak", "name": "الكرك" },
+  { "id": "madaba", "name": "مادبا" },
+  { "id": "tafilah", "name": "الطفيلة" },
+  { "id": "maan", "name": "معان" },
+  { "id": "aqaba", "name": "العقبة" },
+  { "id": "jerash", "name": "جرش" },
+  { "id": "ajloun", "name": "عجلون" },
+  { "id": "mafraq", "name": "المفرق" }
+]
